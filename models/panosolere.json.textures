@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "obsidian",
+        "2": "dedede",
+        "3": "piston_inner"
+      },
+      "name": "default"
+    }
+  }
+}
