@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "natural_energy_mod:block/solar_panel"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "natural_energy_mod:custom/panosolere",
+  "textures": {
+    "all": "natural_energy_mod:blocks/dedede",
+    "particle": "natural_energy_mod:blocks/dedede",
+    "0": "natural_energy_mod:blocks/obsidian",
+    "2": "natural_energy_mod:blocks/dedede",
+    "3": "natural_energy_mod:blocks/piston_inner"
+  }
+}
